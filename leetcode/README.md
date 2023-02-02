@@ -271,6 +271,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>349</td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/">Intersection of Two Arrays</a></td>
+    <td>2023-02-02</td>
+    <td>Easy</td>
+    <td>Array, Hash Table, Two Pointers, Binary Search, Sorting</td>
+  </tr>
+
+  <tr>
     <td>350</td>
     <td><a href="https://leetcode.com/problems/intersection-of-two-arrays-ii">Intersection of Two Arrays II</a></td>
     <td>2022-02-12</td>
@@ -460,6 +468,14 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>Array, Two Pointers, Sorting</td>
+  </tr>
+
+  <tr>
+    <td>912</td>
+    <td><a href="https://leetcode.com/problems/sort-an-array/">Sort an Array</a></td>
+    <td>2023-02-02</td>
+    <td>Medium</td>
+    <td>Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort</td>
   </tr>
 
   <tr>

@@ -75,4 +75,33 @@ Completed Topics:
     <td>Python Basic Data Structures</td>
     <td>2023-02-01</td>
   </tr>
+
+  <tr>
+    <td>Getting Started</td>
+    <td>Basic Algorithms</td>
+    <td>Intro to Sorting</td>
+    <td>2023-02-01</td>
+  </tr>
+
+  <tr>
+    <td>Getting Started</td>
+    <td>Basic Algorithms</td>
+    <td>Advanced Sorting Algorithms - Merge Sort | Quick Sort</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Getting Started</td>
+    <td>Basic Algorithms</td>
+    <td>Sorting Summary</td>
+    <td>2023-02-02</td>
+  </tr>
+
+  <tr>
+    <td>Getting Started</td>
+    <td>Basic Algorithms</td>
+    <td>Built-in Sort with Custom Comparator</td>
+    <td>2023-02-02</td>
+  </tr>
+
 </table>
