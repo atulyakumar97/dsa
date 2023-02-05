@@ -87,7 +87,7 @@ Completed Topics:
     <td>Getting Started</td>
     <td>Basic Algorithms</td>
     <td>Advanced Sorting Algorithms - Merge Sort | Quick Sort</td>
-    <td>WIP</td>
+    <td>2023-02-05</td>
   </tr>
 
   <tr>
