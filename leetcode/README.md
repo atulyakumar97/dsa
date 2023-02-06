@@ -455,6 +455,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>852</td>
+    <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a></td>
+    <td>2023-02-06</td>
+    <td>Medium</td>
+    <td>Array, Binary Search</td>
+  </tr>
+
+  <tr>
     <td>896</td>
     <td><a href="https://leetcode.com/problems/monotonic-array">Monotonic Array</a></td>
     <td>2022-02-13</td>

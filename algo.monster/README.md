@@ -104,4 +104,74 @@ Completed Topics:
     <td>2023-02-02</td>
   </tr>
 
+  <tr>
+    <td>Binary Search</td>
+    <td>Overview</td>
+    <td>Vanilla Binary Search</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Overview</td>
+    <td>First True in a Sorted Boolean Array</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Sorted Array</td>
+    <td>Monotonic Function</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Sorted Array</td>
+    <td>First Element Not Smaller Than Target</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Sorted Array</td>
+    <td>First Occurrence</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Sorted Array</td>
+    <td>Square Root Estimation</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Implicitly Sorted Array</td>
+    <td>Minimum in Rotated Sorted Array</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Implicitly Sorted Array</td>
+    <td>Peak of Mountain Array</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Advanced</td>
+    <td>Newspapers</td>
+    <td>WIP</td>
+  </tr>
+
+  <tr>
+    <td>Binary Search</td>
+    <td>Advanced</td>
+    <td>Binary Search Speedrun</td>
+    <td>WIP</td>
+  </tr>
+
 </table>
