@@ -108,70 +108,112 @@ Completed Topics:
     <td>Binary Search</td>
     <td>Overview</td>
     <td>Vanilla Binary Search</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Overview</td>
     <td>First True in a Sorted Boolean Array</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Sorted Array</td>
     <td>Monotonic Function</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Sorted Array</td>
     <td>First Element Not Smaller Than Target</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Sorted Array</td>
     <td>First Occurrence</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Sorted Array</td>
     <td>Square Root Estimation</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Implicitly Sorted Array</td>
     <td>Minimum in Rotated Sorted Array</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Implicitly Sorted Array</td>
     <td>Peak of Mountain Array</td>
-    <td>WIP</td>
+    <td>2023-02-06</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Advanced</td>
     <td>Newspapers</td>
-    <td>WIP</td>
+    <td>To Do</td>
   </tr>
 
   <tr>
     <td>Binary Search</td>
     <td>Advanced</td>
     <td>Binary Search Speedrun</td>
-    <td>WIP</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Introduction</td>
+    <td>Two Pointers Introduction</td>
+    <td>2023-02-07</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Same Direction</td>
+    <td>Remove Duplicates</td>
+    <td>2023-02-07</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Same Direction</td>
+    <td>Middle of a Linked List</td>
+    <td>2023-02-07</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Same Direction</td>
+    <td>Move Zeros</td>
+    <td>2023-02-07</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Opposite Direction</td>
+    <td>Two Sum Sorted</td>
+    <td>2023-02-07</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Opposite Direction</td>
+    <td>Valid Palindrome</td>
+    <td>2023-02-07</td>
   </tr>
 
 </table>

@@ -2,7 +2,6 @@ from typing import List
 
 
 def first_not_smaller(arr: List[int], target: int) -> int:
-    # WRITE YOUR BRILLIANT CODE HERE
 
     left = 0
     right = len(arr) - 1

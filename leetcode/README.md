@@ -463,6 +463,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>876</td>
+    <td><a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
+    <td>2023-02-07</td>
+    <td>Easy</td>
+    <td>Linked List, Two Pointers</td>
+  </tr>
+
+  <tr>
     <td>896</td>
     <td><a href="https://leetcode.com/problems/monotonic-array">Monotonic Array</a></td>
     <td>2022-02-13</td>
