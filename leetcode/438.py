@@ -1,33 +1,46 @@
-from collections import defaultdict
-from collections import Counter
+from typing import List
+
 
 class Solution:
-    def findAnagrams(self, s: str, p: str) -> List[int]:
-        
-        s_dict = collections.Counter(s[0:len(p)])
-        p_dict = collections.Counter(p)
-        
+    def findAnagrams(self, original: str, check: str) -> List[int]:
+        check_hm = dict()
+
+        for char in check:
+            if char in check_hm:
+                check_hm[char] += 1
+            else:
+                check_hm[char] = 1
+
+        k = len(check)
         ans = []
-        
-        for i in range(0, len(s)-len(p)+1):
-               
-            
-            if i != 0:
-                if s_dict[s[i-1]] == 1:
-                    del s_dict[s[i-1]]
-                else:
-                    s_dict[s[i-1]] -= 1
-                
-                if s[i+len(p)-1] in s_dict:
-                    s_dict[s[i+len(p)-1]] += 1
-                else:
-                    s_dict[s[i+len(p)-1]] = 1
-                
-            
-            if s_dict == p_dict:
-                ans.append(i)
-        
+
+        window = original[0: k]
+        window_hm = dict()
+
+        for char in window:
+            if char in window_hm:
+                window_hm[char] += 1
+            else:
+                window_hm[char] = 1
+
+        if check_hm == window_hm:
+            ans.append(0)
+
+        for i in range(k, len(original)):
+
+            add_char = original[i]
+            del_char = original[i - k]
+
+            if add_char in window_hm:
+                window_hm[add_char] += 1
+            else:
+                window_hm[add_char] = 1
+
+            window_hm[del_char] -= 1
+            if window_hm[del_char] == 0:
+                del window_hm[del_char]
+
+            if window_hm == check_hm:
+                ans.append(i - k + 1)
+
         return ans
-             
-##Runtime: 3664 ms - original solution
-##Runtime: 420 ms - optimized solution

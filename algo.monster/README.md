@@ -216,4 +216,18 @@ Completed Topics:
     <td>2023-02-07</td>
   </tr>
 
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Subarray Sum - Fixed</td>
+    <td>2023-02-08</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Find All Anagrams in a String</td>
+    <td>2023-02-08</td>
+  </tr>
+
 </table>

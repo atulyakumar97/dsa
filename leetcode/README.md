@@ -313,7 +313,7 @@ Profile: https://leetcode.com/atulyakumar/
   <tr>
     <td>438</td>
     <td><a href="https://leetcode.com/problems/find-all-anagrams-in-a-string">Find All Anagrams in a String</a></td>
-    <td>2022-02-02</td>
+    <td>2023-02-08</td>
     <td>Medium</td>
     <td>Hash Table, String, Sliding Window</td>
   </tr>
