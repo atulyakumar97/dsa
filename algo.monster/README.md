@@ -230,4 +230,18 @@ Completed Topics:
     <td>2023-02-08</td>
   </tr>
 
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Sliding Window - Longest</td>
+    <td>2023-02-09</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Longest Substring without Repeating Characters</td>
+    <td>2023-02-09</td>
+  </tr>
+
 </table>
