@@ -244,4 +244,18 @@ Completed Topics:
     <td>2023-02-09</td>
   </tr>
 
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Sliding Window - Shortest</td>
+    <td>2023-02-10</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Least Consecutive Cards to Match</td>
+    <td>2023-02-10</td>
+  </tr>
+
 </table>

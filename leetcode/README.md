@@ -1007,6 +1007,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>2032</td>
+    <td><a href="https://leetcode.com/problems/two-out-of-three/">Two Out of Three</a></td>
+    <td>2023-02-10</td>
+    <td>Easy</td>
+    <td>Array, Hash Table</td>
+  </tr>
+
+
+  <tr>
     <td>2042</td>
     <td><a href="https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence">Check if Numbers Are Ascending in a Sentence</a></td>
     <td>2022-02-20</td>
@@ -1204,6 +1213,14 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-18</td>
     <td>Easy</td>
     <td>Tree, Binary Tree</td>
+  </tr>
+
+  <tr>
+    <td>2260</td>
+    <td><a href="https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/">Minimum Consecutive Cards to Pick Up</a></td>
+    <td>2023-02-10</td>
+    <td>Medium</td>
+    <td>Array, Hash Table, Sliding Window</td>
   </tr>
 
   <tr>
