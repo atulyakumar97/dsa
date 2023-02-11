@@ -167,6 +167,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>141</td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a></td>
+    <td>2023-02-11</td>
+    <td>Easy</td>
+    <td>Hash Table, Linked List, Two Pointers</td>
+  </tr>
+
+  <tr>
     <td>169</td>
     <td><a href="https://leetcode.com/problems/majority-element">Majority Element</a></td>
     <td>2022-02-21</td>
@@ -372,6 +380,14 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+  </tr>
+
+  <tr>
+    <td>560</td>
+    <td><a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
+    <td>2023-02-11</td>
+    <td>Medium</td>
+    <td>Array, Hash Table, Prefix Sum</td>
   </tr>
 
   <tr>

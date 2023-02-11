@@ -258,4 +258,53 @@ Completed Topics:
     <td>2023-02-10</td>
   </tr>
 
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Subarray Sum</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Two Pointers</td>
+    <td>Sliding Window</td>
+    <td>Linked List Cycle</td>
+    <td>2023-02-11</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Introduction</td>
+    <td>Recursion Review</td>
+    <td>2023-02-11</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Introduction</td>
+    <td>Everything About Trees</td>
+    <td>2023-02-11</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Introduction</td>
+    <td>DFS Fundamentals</td>
+    <td>2023-02-11</td>
+  </tr>
+  
+  <tr>
+    <td>Depth First Search</td>
+    <td>DFS on Tree</td>
+    <td>Introduction</td>
+    <td>2023-02-11</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>DFS on Tree</td>
+    <td>Max Depth of A Tree</td>
+    <td>To Do</td>
+  </tr>
+
 </table>
