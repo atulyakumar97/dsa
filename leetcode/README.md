@@ -695,6 +695,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>1448</td>
+    <td><a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">Count Good Nodes in Binary Tree</a></td>
+    <td>2022-02-11</td>
+    <td>Medium</td>
+    <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+  </tr>
+
+  <tr>
     <td>1470</td>
     <td><a href="https://leetcode.com/problems/shuffle-the-array">Shuffle the Array</a></td>
     <td>2022-01-30</td>

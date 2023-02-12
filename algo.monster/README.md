@@ -304,7 +304,13 @@ Completed Topics:
     <td>Depth First Search</td>
     <td>DFS on Tree</td>
     <td>Max Depth of A Tree</td>
-    <td>To Do</td>
+    <td>2023-02-11</td>
   </tr>
 
+  <tr>
+    <td>Depth First Search</td>
+    <td>DFS on Tree</td>
+    <td>Visible Tree Node</td>
+    <td>2023-02-11</td>
+  </tr>
 </table>
