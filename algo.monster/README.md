@@ -313,4 +313,82 @@ Completed Topics:
     <td>Visible Tree Node</td>
     <td>2023-02-11</td>
   </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>DFS on Tree</td>
+    <td>Balanced Binary Tree</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>DFS on Tree</td>
+    <td>Serializing and Deserializing Binary Tree</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>DFS on Tree</td>
+    <td>Invert Binary Tree</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Binary Search Tree</td>
+    <td>Binary Search Tree Intro</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Binary Search Tree</td>
+    <td>Valid Binary Search Tree</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Binary Search Tree</td>
+    <td>Insert Into BST</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Binary Search Tree</td>
+    <td>Lowest Common Ancestor of a Binary Search Tree</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Depth First Search</td>
+    <td>Advanced</td>
+    <td>Lowest Common Ancestor of a Binary Tree</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>System Design</td>
+    <td>Concepts</td>
+    <td>Load Balancer</td>
+    <td>2023-02-12</td>
+  </tr>
+
+  <tr>
+    <td>System Design</td>
+    <td>Concepts</td>
+    <td>Partitioning and Sharding</td>
+    <td>2023-02-12</td>
+  </tr>
+
+  <tr>
+    <td>System Design</td>
+    <td>Concepts</td>
+    <td>Caching</td>
+    <td>To Do</td>
+  </tr>
+
 </table>
