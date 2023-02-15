@@ -543,6 +543,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>989</td>
+    <td><a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Add to Array-Form of Integer</a></td>
+    <td>2023-02-15</td>
+    <td>Easy</td>
+    <td>Array, Math</td>
+  </tr>
+
+  <tr>
     <td>1051</td>
     <td><a href="https://leetcode.com/problems/height-checker">Height Checker</a></td>
     <td>2022-02-21</td>

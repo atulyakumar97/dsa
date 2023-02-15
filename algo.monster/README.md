@@ -318,7 +318,7 @@ Completed Topics:
     <td>Depth First Search</td>
     <td>DFS on Tree</td>
     <td>Balanced Binary Tree</td>
-    <td>To Do</td>
+    <td>2023-02-15</td>
   </tr>
 
   <tr>
@@ -388,6 +388,48 @@ Completed Topics:
     <td>System Design</td>
     <td>Concepts</td>
     <td>Caching</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>System Design</td>
+    <td>Concepts</td>
+    <td>Caching</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Breadth First Search</td>
+    <td>Introduction</td>
+    <td>BFS Fundamentals</td>
+    <td>2023-02-15</td>
+  </tr>
+
+  <tr>
+    <td>Breadth First Search</td>
+    <td>BFS on Tree</td>
+    <td>Binary Tree Level Order Traversal</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Breadth First Search</td>
+    <td>BFS on Tree</td>
+    <td>Binary Tree ZigZag Level Order Traversal</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Breadth First Search</td>
+    <td>BFS on Tree</td>
+    <td>Binary Tree Right Side View</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Breadth First Search</td>
+    <td>BFS on Tree</td>
+    <td>Binary Tree Min Depth</td>
     <td>To Do</td>
   </tr>
 
