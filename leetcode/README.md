@@ -151,6 +151,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>104</td>
+    <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+    <td>2023-02-16</td>
+    <td>Easy</td>
+    <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+  </tr>
+
+  <tr>
     <td>121</td>
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">Best Time to Buy and Sell Stock</a></td>
     <td>2022-02-01</td>
@@ -172,6 +180,14 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-11</td>
     <td>Easy</td>
     <td>Hash Table, Linked List, Two Pointers</td>
+  </tr>
+
+  <tr>
+    <td>167</td>
+    <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array Is Sorted</a></td>
+    <td>2023-02-16</td>
+    <td>Medium</td>
+    <td>Array, Two Pointers, Binary Search</td>
   </tr>
 
   <tr>
