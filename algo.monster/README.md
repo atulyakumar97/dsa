@@ -325,14 +325,14 @@ Completed Topics:
     <td>Depth First Search</td>
     <td>DFS on Tree</td>
     <td>Serializing and Deserializing Binary Tree</td>
-    <td>To Do</td>
+    <td>2023-02-19</td>
   </tr>
 
   <tr>
     <td>Depth First Search</td>
     <td>DFS on Tree</td>
     <td>Invert Binary Tree</td>
-    <td>To Do</td>
+    <td>2023-02-19</td>
   </tr>
 
   <tr>
@@ -346,21 +346,21 @@ Completed Topics:
     <td>Depth First Search</td>
     <td>Binary Search Tree</td>
     <td>Valid Binary Search Tree</td>
-    <td>To Do</td>
+    <td>2023-02-19</td>
   </tr>
 
   <tr>
     <td>Depth First Search</td>
     <td>Binary Search Tree</td>
     <td>Insert Into BST</td>
-    <td>To Do</td>
+    <td>2023-02-19</td>
   </tr>
 
   <tr>
     <td>Depth First Search</td>
     <td>Binary Search Tree</td>
     <td>Lowest Common Ancestor of a Binary Search Tree</td>
-    <td>To Do</td>
+    <td>2023-02-19</td>
   </tr>
 
   <tr>

@@ -151,6 +151,14 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>98</td>
+    <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
+    <td>2023-02-19</td>
+    <td>Medium</td>
+    <td>Tree, Depth-First Search, Binary Search Tree, Binary Tree</td>
+  </tr>
+
+  <tr>
     <td>104</td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td>2023-02-16</td>
@@ -228,6 +236,22 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Array, Hash Table, Sorting</td>
+  </tr>
+
+  <tr>
+    <td>226</td>
+    <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+    <td>2023-02-19</td>
+    <td>Easy</td>
+    <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+  </tr>
+
+  <tr>
+    <td>235</td>
+    <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</a></td>
+    <td>2023-02-19</td>
+    <td>Medium</td>
+    <td>Tree, Depth-First Search, Binary Search Tree, Binary Tree</td>
   </tr>
 
   <tr>
@@ -436,6 +460,14 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-03</td>
     <td>Easy</td>
     <td>Database</td>
+  </tr>
+
+  <tr>
+    <td>701</td>
+    <td><a href="https://leetcode.com/problems/swap-salary">Insert into a Binary Search Tree</a></td>
+    <td>2023-02-19</td>
+    <td>Medium</td>
+    <td>Tree, Binary Search Tree, Binary Tree</td>
   </tr>
 
   <tr>
