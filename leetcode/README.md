@@ -9,9 +9,10 @@ Profile: https://leetcode.com/atulyakumar/
   <tr>
     <th>#</th>
     <th>Title</th>
-    <th>Date</th>
+    <th style="white-space:nowrap">Date Submitted</th>
     <th>Difficulty</th>
     <th>Tags</th>
+    <th>Notes</th>
   </tr>
 
   <tr>
@@ -20,6 +21,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-08</td>
     <td>Easy</td>
     <td>Array, Hash Table</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -28,6 +30,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Medium</td>
     <td>Linked List, Math, Recursion</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -36,6 +39,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-19</td>
     <td>Medium</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -44,6 +48,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-08</td>
     <td>Medium</td>
     <td>Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -52,6 +57,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -60,6 +66,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>Array, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -68,6 +75,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>Array, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -76,6 +84,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Medium</td>
     <td>Two Pointers, String, String Matching</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -84,6 +93,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-08</td>
     <td>Easy</td>
     <td>Array, Binary Search</td>
+    <td>Binary search on array, return mid if target found or if target between mid-1 and mid. Edge case return 0 or len of arr if target is smallest or biggest</td>
   </tr>
 
   <tr>
@@ -92,6 +102,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -100,6 +111,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-03-06</td>
     <td>Easy</td>
     <td>Array, Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -108,6 +120,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-21</td>
     <td>Easy</td>
     <td>Math, String, Bit Manipulation, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -116,6 +129,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-04</td>
     <td>Easy</td>
     <td>Math, Binary Search</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -124,6 +138,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-19</td>
     <td>Medium</td>
     <td>Array, Backtracking, Bit Manipulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -132,6 +147,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Medium</td>
     <td>Array, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -140,6 +156,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Linked List</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -148,6 +165,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>Array, Two Pointers, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -156,6 +174,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-19</td>
     <td>Medium</td>
     <td>Tree, Depth-First Search, Binary Search Tree, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -164,6 +183,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-16</td>
     <td>Easy</td>
     <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -172,6 +192,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, Dynamic Programming</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -180,6 +201,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -188,6 +210,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-11</td>
     <td>Easy</td>
     <td>Hash Table, Linked List, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -196,6 +219,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-16</td>
     <td>Medium</td>
     <td>Array, Two Pointers, Binary Search</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -204,6 +228,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-21</td>
     <td>Easy</td>
     <td>Array, Hash Table, Divide and Conquer, Sorting, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -212,6 +237,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-22</td>
     <td>Easy</td>
     <td>Math, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -220,6 +246,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-03</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -228,6 +255,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Medium</td>
     <td>Array, Math, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -236,6 +264,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Array, Hash Table, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -244,6 +273,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-19</td>
     <td>Easy</td>
     <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -252,6 +282,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-19</td>
     <td>Medium</td>
     <td>Tree, Depth-First Search, Binary Search Tree, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -260,6 +291,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-02</td>
     <td>Easy</td>
     <td>Hash Table, String, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -268,6 +300,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-08</td>
     <td>Easy</td>
     <td>Math, Simulation, Number Theory</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -276,6 +309,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-08</td>
     <td>Easy</td>
     <td>Binary Search, Interactive</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -284,6 +318,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-10</td>
     <td>Easy</td>
     <td>Array, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -292,6 +327,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-23</td>
     <td>Medium</td>
     <td>Array, Two Pointers, Binary Search, Bit Manipulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -300,6 +336,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-23</td>
     <td>Easy</td>
     <td>Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -308,6 +345,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -316,6 +354,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-22</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -324,6 +363,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-02</td>
     <td>Easy</td>
     <td>Array, Hash Table, Two Pointers, Binary Search, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -332,6 +372,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Array, Hash Table, Two Pointers, Binary Search, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -340,6 +381,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Hash Table, String, Queue, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -348,6 +390,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-07</td>
     <td>Easy</td>
     <td>Hash Table, String, Bit Manipulation, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -356,6 +399,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-21</td>
     <td>Easy</td>
     <td>Array, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -364,6 +408,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-08</td>
     <td>Medium</td>
     <td>Hash Table, String, Sliding Window</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -372,6 +417,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Array, Hash Table</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -380,6 +426,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-13</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -388,6 +435,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Math, Dynamic Programming, Recursion, Memoization</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -396,6 +444,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Medium</td>
     <td>Array, Hash Table, Prefix Sum</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -404,6 +453,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Medium</td>
     <td>Array, Hash Table, Two Pointers, Binary Search, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -412,6 +462,16 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Medium</td>
     <td>Hash Table, String, Design, Hash Function</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>540</td>
+    <td><a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a></td>
+    <td>2023-02-21</td>
+    <td>Medium</td>
+    <td>Array, Binary Search</td>
+    <td>Binary search, if mid is odd mid -1 and check nums[mid] and nums[mid+1] matches then binary search on right half (mid + 2) else binary search on left half</td>
   </tr>
 
   <tr>
@@ -420,6 +480,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -428,6 +489,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-11</td>
     <td>Medium</td>
     <td>Array, Hash Table, Prefix Sum</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -436,6 +498,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-11</td>
     <td>Medium</td>
     <td>Hash Table, Two Pointers, String, Sliding Window</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -444,6 +507,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -452,6 +516,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-27</td>
     <td>Medium</td>
     <td>Array, Linked List, Design, Queue</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -460,6 +525,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-03</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -468,6 +534,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-19</td>
     <td>Medium</td>
     <td>Tree, Binary Search Tree, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -476,6 +543,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Array, Binary Search</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -484,6 +552,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -492,6 +561,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -500,6 +570,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Array, Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -508,6 +579,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Medium</td>
     <td>Array, Hash Table, String, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -516,6 +588,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-26</td>
     <td>Easy</td>
     <td>Array, Two Pointers, Matrix, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -524,6 +597,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-06</td>
     <td>Medium</td>
     <td>Array, Binary Search</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -532,6 +606,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-07</td>
     <td>Easy</td>
     <td>Linked List, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -540,6 +615,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-13</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -548,6 +624,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>Array, Two Pointers, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -556,6 +633,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-02</td>
     <td>Medium</td>
     <td>Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -564,6 +642,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-07</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -572,6 +651,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Array, Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -580,6 +660,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-21</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -588,6 +669,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-10</td>
     <td>Easy</td>
     <td>Array, Two Pointers, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -596,6 +678,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-15</td>
     <td>Easy</td>
     <td>Array, Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -604,6 +687,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-21</td>
     <td>Easy</td>
     <td>Array, Sorting, Counting Sort</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -612,6 +696,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-14</td>
     <td>Easy</td>
     <td>Array, Two Pointers</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -620,6 +705,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -628,6 +714,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-01-30</td>
     <td>Easy</td>
     <td>Math, Dynamic Programming, Memoization</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -636,6 +723,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Array, Hash Table</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -644,6 +732,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>String, Greedy, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -652,6 +741,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -660,6 +750,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Medium</td>
     <td>Array, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -668,6 +759,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-21</td>
     <td>Easy</td>
     <td>Linked List, Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -676,6 +768,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-13</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -684,6 +777,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -692,6 +786,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -700,6 +795,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -708,6 +804,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Easy</td>
     <td>Math, Greedy</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -716,6 +813,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Math, Bit Manipulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -724,6 +822,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-09</td>
     <td>Easy</td>
     <td>Array, Hash Table, Two Pointers, Binary Search, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -732,6 +831,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array, Hash Table, Sorting, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -740,6 +840,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -748,6 +849,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -756,6 +858,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-11</td>
     <td>Medium</td>
     <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -764,6 +867,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -772,6 +876,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array, Prefix Sum</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -780,6 +885,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-20</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -788,6 +894,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Math, Bit Manipulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -796,6 +903,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-23</td>
     <td>Easy</td>
     <td>Array, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -804,6 +912,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-07</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -812,6 +921,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array, Hash Table, Math, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -820,6 +930,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -828,6 +939,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-27</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -836,6 +948,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-17</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -844,6 +957,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-16</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -852,6 +966,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Design, Simulation, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -860,6 +975,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -868,6 +984,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array, Matrix</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -876,6 +993,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -884,6 +1002,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Array, Hash Table, String, Bit Manipulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -892,6 +1011,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Medium</td>
     <td>String, Greedy</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -900,6 +1020,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-14</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -908,6 +1029,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Easy</td>
     <td>String, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -916,6 +1038,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-31</td>
     <td>Easy</td>
     <td>Array, Bit Manipulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -924,6 +1047,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Easy</td>
     <td>Array, Prefix Sum</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -932,6 +1056,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-14</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -940,6 +1065,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-23</td>
     <td>Easy</td>
     <td>Array, Hash Table, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -948,6 +1074,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-03-27</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -956,6 +1083,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -964,6 +1092,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -972,6 +1101,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-15</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -980,6 +1110,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -988,6 +1119,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-02</td>
     <td>Easy</td>
     <td>Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -996,6 +1128,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1004,6 +1137,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>String, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1012,6 +1146,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-19</td>
     <td>Easy</td>
     <td>Database</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1020,6 +1155,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-12</td>
     <td>Easy</td>
     <td>Hash Table, String, Sliding Window, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1028,6 +1164,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1036,6 +1173,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-22</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1044,6 +1182,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1052,6 +1191,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-07</td>
     <td>Easy</td>
     <td>String, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1060,6 +1200,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1068,6 +1209,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-06</td>
     <td>Easy</td>
     <td>Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1076,6 +1218,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, Hash Table, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1084,6 +1227,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array, String, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1092,6 +1236,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-10</td>
     <td>Easy</td>
     <td>Array, Hash Table</td>
+    <td></td>
   </tr>
 
 
@@ -1101,6 +1246,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1109,6 +1255,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Array, Hash Table, String, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1117,6 +1264,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-27</td>
     <td>Easy</td>
     <td>Hash Table, String, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1125,6 +1273,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Array, Hash Table, String, Counting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1133,6 +1282,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, Binary Search, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1141,6 +1291,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Hash Table, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1149,6 +1300,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-01</td>
     <td>Easy</td>
     <td>Array, Two Pointers, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1157,6 +1309,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-01-30</td>
     <td>Easy</td>
     <td>Array, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1165,6 +1318,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-08</td>
     <td>Easy</td>
     <td>Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1173,6 +1327,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1181,6 +1336,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1189,6 +1345,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-27</td>
     <td>Easy</td>
     <td>String, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1197,6 +1354,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-23</td>
     <td>Medium</td>
     <td>Array, Two Pointers, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1205,6 +1363,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-26</td>
     <td>Easy</td>
     <td>Array, Hash Table, Sorting, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1213,6 +1372,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Easy</td>
     <td>Math, Greedy, Sorting</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1221,6 +1381,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Medium</td>
     <td>Array, Two Pointers, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1229,6 +1390,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-26</td>
     <td>Easy</td>
     <td>Math, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1237,6 +1399,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-19</td>
     <td>Easy</td>
     <td>Array</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1245,6 +1408,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-19</td>
     <td>Medium</td>
     <td>Math, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1253,6 +1417,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Easy</td>
     <td>Math, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1261,6 +1426,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-20</td>
     <td>Medium</td>
     <td>Linked List, Simulation</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1269,6 +1435,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-27</td>
     <td>Easy</td>
     <td>Array, String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1277,6 +1444,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-03-06</td>
     <td>Easy</td>
     <td>String</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1285,6 +1453,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-14</td>
     <td>Easy</td>
     <td>Math</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1293,6 +1462,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-05-18</td>
     <td>Easy</td>
     <td>Tree, Binary Tree</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1301,6 +1471,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-02-10</td>
     <td>Medium</td>
     <td>Array, Hash Table, Sliding Window</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -1309,6 +1480,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2023-01-29</td>
     <td>Easy</td>
     <td>Math</td>
+    <td></td>
   </tr>
 
 </table>

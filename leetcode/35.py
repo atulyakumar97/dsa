@@ -1,4 +1,34 @@
+from typing import List
+
+
 class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        if target < nums[0]:
+            return 0
+
+        if target > nums[-1]:
+            return len(nums)
+
+        left = 0
+        right = len(nums) - 1
+
+        while left <= right:
+
+            mid = (left + right) // 2
+
+            if nums[mid] == target:
+                return mid
+            elif nums[mid - 1] < target < nums[mid]:
+                return mid
+            elif target > nums[mid]:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return mid
+
+
+class Solution2:
     def searchInsert(self, nums: List[int], target: int) -> int:
         
         l = 0

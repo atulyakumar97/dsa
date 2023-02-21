@@ -78,6 +78,8 @@ def dfs(root, target):
 ## Tree - Breadth First Search
 
 ```python
+from collections import deque
+
 def bfs(root):
     queue = deque([root])
     while len(queue) > 0:
