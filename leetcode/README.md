@@ -178,12 +178,39 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>102</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
+    <td>2023-02-23</td>
+    <td>Medium</td>
+    <td>Tree, Breadth-First Search, Binary Tree</td>
+    <td>BFS on btree. while len queue is not zero, take the len of queue, keep popping and storing in a level list, add children to queue</td>
+  </tr>
+
+  <tr>
+    <td>103</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">Binary Tree Zigzag Level Order Traversal</a></td>
+    <td>2023-02-23</td>
+    <td>Medium</td>
+    <td>Tree, Breadth-First Search,Binary Tree</td>
+    <td>BFS on btree. while len queue in not zero, take the len of queue, keep popping and storing in a level, append at last/insert at pos 0  alternatively, add children to queue</td>
+  </tr>
+
+  <tr>
     <td>104</td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td>2023-02-16</td>
     <td>Easy</td>
     <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>111</td>
+    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
+    <td>2023-02-23</td>
+    <td>Easy</td>
+    <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+    <td>BFS on btree. init depth = 0, while len queue is no zero, take the len of queue n, increase depth by 1, keeping popping till n nodes and storing the children in the queue. if a node has no children return depth</td>
   </tr>
 
   <tr>
@@ -256,6 +283,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Medium</td>
     <td>Array, Math, Two Pointers</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>199</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-right-side-view/">Binary Tree Right Side View</a></td>
+    <td>2023-02-23</td>
+    <td>Medium</td>
+    <td>Tree, Depth-First Search, Breadth-First Search, Binary Tree</td>
+    <td>BFS on btree. while len queue is not zero, take the len of queue - add the last (-1) element in the queue to ans, keep popping the nodes at a level, add children to queue</td>
   </tr>
 
   <tr>

@@ -409,28 +409,28 @@ Completed Topics:
     <td>Breadth First Search</td>
     <td>BFS on Tree</td>
     <td>Binary Tree Level Order Traversal</td>
-    <td>To Do</td>
+    <td>2023-02-23</td>
   </tr>
 
   <tr>
     <td>Breadth First Search</td>
     <td>BFS on Tree</td>
     <td>Binary Tree ZigZag Level Order Traversal</td>
-    <td>To Do</td>
+    <td>2023-02-23</td>
   </tr>
 
   <tr>
     <td>Breadth First Search</td>
     <td>BFS on Tree</td>
     <td>Binary Tree Right Side View</td>
-    <td>To Do</td>
+    <td>2023-02-23</td>
   </tr>
 
   <tr>
     <td>Breadth First Search</td>
     <td>BFS on Tree</td>
     <td>Binary Tree Min Depth</td>
-    <td>To Do</td>
+    <td>2023-02-23</td>
   </tr>
 
 </table>
