@@ -2,7 +2,7 @@
 
 My implementation of data structures and algorithms after going through the concepts on algo.monster 
 
-Completed Topics:
+## Getting Started
 
 <table>
 
@@ -104,6 +104,19 @@ Completed Topics:
     <td>2023-02-02</td>
   </tr>
 
+</table>
+
+## Binary Search
+
+<table>
+
+  <tr>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
+  </tr>
+
   <tr>
     <td>Binary Search</td>
     <td>Overview</td>
@@ -179,6 +192,19 @@ Completed Topics:
     <td>Introduction</td>
     <td>Two Pointers Introduction</td>
     <td>2023-02-07</td>
+  </tr>
+
+</table>
+
+## Two Pointers
+
+<table>
+
+  <tr>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
   </tr>
 
   <tr>
@@ -262,7 +288,7 @@ Completed Topics:
     <td>Two Pointers</td>
     <td>Sliding Window</td>
     <td>Subarray Sum</td>
-    <td>To Do</td>
+    <td>2023-02-11</td>
   </tr>
 
   <tr>
@@ -270,6 +296,19 @@ Completed Topics:
     <td>Sliding Window</td>
     <td>Linked List Cycle</td>
     <td>2023-02-11</td>
+  </tr>
+
+</table>
+
+## Depth First Search
+
+<table>
+
+  <tr>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
   </tr>
 
   <tr>
@@ -339,7 +378,7 @@ Completed Topics:
     <td>Depth First Search</td>
     <td>Binary Search Tree</td>
     <td>Binary Search Tree Intro</td>
-    <td>To Do</td>
+    <td>2023-02-19</td>
   </tr>
 
   <tr>
@@ -370,6 +409,19 @@ Completed Topics:
     <td>To Do</td>
   </tr>
 
+</table>
+
+## System Design
+
+<table>
+
+  <tr>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
+  </tr>
+
   <tr>
     <td>System Design</td>
     <td>Concepts</td>
@@ -391,11 +443,17 @@ Completed Topics:
     <td>To Do</td>
   </tr>
 
+</table>
+
+## Breadth First Search
+
+<table>
+
   <tr>
-    <td>System Design</td>
-    <td>Concepts</td>
-    <td>Caching</td>
-    <td>To Do</td>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
   </tr>
 
   <tr>
@@ -431,6 +489,75 @@ Completed Topics:
     <td>BFS on Tree</td>
     <td>Binary Tree Min Depth</td>
     <td>2023-02-23</td>
+  </tr>
+
+</table>
+
+## Priority Queue / Heap
+
+<table>
+
+  <tr>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Introduction</td>
+    <td>Heap Fundamentals</td>
+    <td>2023-02-24</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Top K</td>
+    <td>K Closest points</td>
+    <td>2023-02-25</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Top K</td>
+    <td>Merge K Sorted Lists</td>
+    <td>2023-02-25</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Top K</td>
+    <td>Kth Largest Element in an Array</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Top K</td>
+    <td>Kth Smallest Element in a Sorted Matrix</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Moving Best</td>
+    <td>Reorganize String</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Moving Best</td>
+    <td>Ugly Number</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Priority Queue / Heap</td>
+    <td>Multiple Heaps</td>
+    <td>Median of Data Stream</td>
+    <td>To Do</td>
   </tr>
 
 </table>

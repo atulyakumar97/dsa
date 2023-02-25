@@ -61,6 +61,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>23</td>
+    <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a></td>
+    <td>2023-02-25</td>
+    <td>Hard</td>
+    <td>Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort</td>
+    <td>Add first node of each linked list to heap. While heap exists : Min of heap gets popped and appended to result link list. Append next node of linked list to heap.</td>
+  </tr>
+
+  <tr>
     <td>26</td>
     <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array">Remove Duplicates from Sorted Array</a></td>
     <td>2022-02-09</td>
