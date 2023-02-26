@@ -61,6 +61,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>21</td>
+    <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></td>
+    <td>2023-02-26</td>
+    <td>Easy</td>
+    <td>Linked List, Recursion</td>
+    <td>init head, res node. while both lists are not none: add smaller val node after comparison to end of res. check and add non-empty linked list at back of res. return head.</td>
+  </tr>
+
+  <tr>
     <td>23</td>
     <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a></td>
     <td>2023-02-25</td>
@@ -247,6 +256,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>Hash Table, Linked List, Two Pointers</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>148</td>
+    <td><a href="https://leetcode.com/problems/sort-list/">Sort List</a></td>
+    <td>2023-02-26</td>
+    <td>Medium</td>
+    <td>Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort</td>
+    <td>Heappush elements from linkedlist, Heappop into a new linked list. Optimization Required.</td>
   </tr>
 
   <tr>
