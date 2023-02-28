@@ -322,6 +322,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>215</td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array">Kth Largest Element in an Array</a></td>
+    <td>2023-02-28</td>
+    <td>Medium</td>
+    <td>Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect</td>
+    <td>Create minheap with k elements. Iterate over array, if arr element greater than heap min, pop heap element & push arr element. Optimization Required (Quickselect).</td>
+  </tr>
+
+  <tr>
     <td>217</td>
     <td><a href="https://leetcode.com/problems/contains-duplicate">Contains Duplicate</a></td>
     <td>2022-02-12</td>
