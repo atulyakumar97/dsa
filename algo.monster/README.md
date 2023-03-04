@@ -536,21 +536,21 @@ My implementation of data structures and algorithms after going through the conc
     <td>Priority Queue / Heap</td>
     <td>Top K</td>
     <td>Kth Smallest Element in a Sorted Matrix</td>
-    <td>To Do</td>
+    <td>2023-03-04</td>
   </tr>
 
   <tr>
     <td>Priority Queue / Heap</td>
     <td>Moving Best</td>
     <td>Reorganize String</td>
-    <td>To Do</td>
+    <td>2023-03-04</td>
   </tr>
 
   <tr>
     <td>Priority Queue / Heap</td>
     <td>Moving Best</td>
     <td>Ugly Number</td>
-    <td>To Do</td>
+    <td>2023-03-04</td>
   </tr>
 
   <tr>

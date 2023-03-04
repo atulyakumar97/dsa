@@ -34,6 +34,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td>2023-03-04</td>
+    <td>Medium</td>
+    <td>Hash Table, String, Sliding Window</td>
+    <td>Two pointers (r increment by 1), if r not seen add r, else increment left until r seen only once</td>
+  </tr>
+
+  <tr>
     <td>6</td>
     <td><a href="https://leetcode.com/problems/zigzag-conversion">Zigzag Conversion</a></td>
     <td>2022-02-19</td>
@@ -58,6 +67,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>Math</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+    <td>2023-03-04</td>
+    <td>Easy</td>
+    <td>String, Stack</td>
+    <td>Keep adding opening brackets to stack, if closing bracket pop from stack and check if it's a correct pair</td>
   </tr>
 
   <tr>
@@ -102,7 +120,7 @@ Profile: https://leetcode.com/atulyakumar/
     <td>2022-02-05</td>
     <td>Medium</td>
     <td>Two Pointers, String, String Matching</td>
-    <td></td>
+    <td>if len of needle > haystack return -1, iterate and match window return index on match</td>
   </tr>
 
   <tr>
@@ -322,6 +340,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>206</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+    <td>2023-03-04</td>
+    <td>Easy</td>
+    <td>Linked List, Recursion</td>
+    <td>init prev as none, iterate over linked list, assign head to current, current's next is prev, store current in prev</td>
+  </tr>
+
+  <tr>
     <td>215</td>
     <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array">Kth Largest Element in an Array</a></td>
     <td>2023-02-28</td>
@@ -373,6 +400,24 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>Math, Simulation, Number Theory</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>263</td>
+    <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Numbers</a></td>
+    <td>2023-03-04</td>
+    <td>Easy</td>
+    <td>Math</td>
+    <td>return False if number is -ve, if (while) num is divisible by 2,3,5 keep dividing, if 1 is remainder return True</td>
+  </tr>
+
+  <tr>
+    <td>264</td>
+    <td><a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
+    <td>2023-03-04</td>
+    <td>Medium</td>
+    <td>Hash Table, Math, Dynamic Programming, Heap (Priority Queue)</td>
+    <td>Create minheap with num 1. for n-1 time pop heap and generate 3 values and heappush. return top of heap after n-1 pops</td>
   </tr>
 
   <tr>
@@ -445,6 +490,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>Array, Hash Table, Two Pointers, Binary Search, Sorting</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>378</td>
+    <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix">Kth Smallest Element in a Sorted Matrix</a></td>
+    <td>2023-03-04</td>
+    <td>Medium</td>
+    <td>Array, Binary Search, Sorting, Heap (Priority Queue), Matrix</td>
+    <td>add first element of each matrix row to heap. pop 1 element from heap & push next element of the corresponding row. repeat k times</td>
   </tr>
 
   <tr>
@@ -610,6 +664,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>703</td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/">Kth Largest Element in a Stream</a></td>
+    <td>2023-03-04</td>
+    <td>Easy</td>
+    <td>Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream</td>
+    <td>init - Build minheap of length k. add - heappush val, pop if greater than len k. return heap min</td>
+  </tr>
+
+  <tr>
     <td>704</td>
     <td><a href="https://leetcode.com/problems/binary-search">Binary Search</a></td>
     <td>2022-02-12</td>
@@ -625,6 +688,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>String</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>767</td>
+    <td><a href="https://leetcode.com/problems/reorganize-string/">Reorganize String</a></td>
+    <td>2023-03-04</td>
+    <td>Medium</td>
+    <td>Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting</td>
+    <td>init counter of string. create max heap with freq as priority and char as value. if max freq char occupies more than all even places then exit. place max freq char in even places and then odd places.</td>
   </tr>
 
   <tr>
@@ -733,6 +805,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>Array</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>973</td>
+    <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/">K Closest Points to Origin</a></td>
+    <td>2023-03-04</td>
+    <td>Medium</td>
+    <td>Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect</td>
+    <td>Create min heap with priority = dist from origin, val = point. Pop heap k times</td>
   </tr>
 
   <tr>
