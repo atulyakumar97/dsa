@@ -2,8 +2,6 @@
 
 This folder contains a summary and all my leetcode solutions.
 
-Profile: https://leetcode.com/atulyakumar/
-
 <table>
 
   <tr>
@@ -457,6 +455,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>295</td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream">Find Median from Data Stream</a></td>
+    <td>2023-03-07</td>
+    <td>Hard</td>
+    <td>Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream</td>
+    <td>add num - add to left if right_min_heap is empty or if num less than right_min_heap[0] else add to left_max_heap. balance if left_max_heap is smaller than right_min_heap. balance if left_max_heap is bigger than right_max_heap by 1 element.</td>
+  </tr>
+
+  <tr>
     <td>344</td>
     <td><a href="https://leetcode.com/problems/reverse-string">Reverse String</a></td>
     <td>2022-02-20</td>
@@ -835,6 +842,15 @@ Profile: https://leetcode.com/atulyakumar/
   </tr>
 
   <tr>
+    <td>1046</td>
+    <td><a href="https://leetcode.com/problems/last-stone-weight/">Last Stone Weight</a></td>
+    <td>2023-03-07</td>
+    <td>Easy</td>
+    <td>Array, Heap (Priority Queue)</td>
+    <td>Create max heap. pop 2 elements, store the abs(difference) if it is non-zero. return top element if only 1 element remains else return 0</td>
+  </tr>
+
+  <tr>
     <td>1051</td>
     <td><a href="https://leetcode.com/problems/height-checker">Height Checker</a></td>
     <td>2022-02-21</td>
@@ -1084,6 +1100,15 @@ Profile: https://leetcode.com/atulyakumar/
     <td>Easy</td>
     <td>Array, String</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>1539</td>
+    <td><a href="https://leetcode.com/problems/kth-missing-positive-number/">Kth Missing Positive Number</a></td>
+    <td>2023-03-06</td>
+    <td>Easy</td>
+    <td>Array, Binary Search</td>
+    <td>Track missing positive numbers as you scan the array</td>
   </tr>
 
   <tr>
