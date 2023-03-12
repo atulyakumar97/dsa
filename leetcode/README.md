@@ -275,6 +275,15 @@ This folder contains a summary and all my leetcode solutions.
   </tr>
 
   <tr>
+    <td>142</td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">Linked List Cycle II</a></td>
+    <td>2023-03-09</td>
+    <td>Medium</td>
+    <td>Hash Table, Linked List, Two Pointers</td>
+    <td>Init fast and slow pointer. On match, reset fast pointer to head. Move slow and fast pointer equally now until they re-intersect.</td>
+  </tr>
+
+  <tr>
     <td>148</td>
     <td><a href="https://leetcode.com/problems/sort-list/">Sort List</a></td>
     <td>2023-02-26</td>
@@ -662,6 +671,15 @@ This folder contains a summary and all my leetcode solutions.
   </tr>
 
   <tr>
+    <td>658</td>
+    <td><a href="https://leetcode.com/problems/find-k-closest-elements/">Find K Closest Elements</a></td>
+    <td>2023-03-10</td>
+    <td>Medium</td>
+    <td>Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)</td>
+    <td>Init k elements max heap with dist as priority. Pop first element if max element of heap and push smaller element. Sorted and return k elements by val (not dist). Optimization Required.</td>
+  </tr>
+
+  <tr>
     <td>701</td>
     <td><a href="https://leetcode.com/problems/swap-salary">Insert into a Binary Search Tree</a></td>
     <td>2023-02-19</td>
@@ -695,6 +713,15 @@ This folder contains a summary and all my leetcode solutions.
     <td>Easy</td>
     <td>String</td>
     <td></td>
+  </tr>
+
+  <tr>
+    <td>733</td>
+    <td><a href="https://leetcode.com/problems/flood-fill/">Flood Fill</a></td>
+    <td>2023-03-12</td>
+    <td>Easy</td>
+    <td>Array, Depth-First Search, Breadth-First Search, Matrix</td>
+    <td>Get neighbors function to find L,R,U,D elements in matrix. BFS on image from start pixel until neighbors not found with start pixel value.</td>
   </tr>
 
   <tr>

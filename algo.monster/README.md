@@ -561,3 +561,86 @@ My implementation of data structures and algorithms after going through the conc
   </tr>
 
 </table>
+
+## Graphs
+
+<table>
+
+  <tr>
+    <th>Section</th>
+    <th>SubSection</th>
+    <th>Topic</th>
+    <th>Completed Date</th>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Introduction</td>
+    <td>Graph Fundamentals</td>
+    <td>2023-03-08</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Introduction</td>
+    <td>BFS on Graphs</td>
+    <td>2023-03-08</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Introduction</td>
+    <td>DFS on Graphs</td>
+    <td>2023-03-08</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Introduction</td>
+    <td>BFS or DFS</td>
+    <td>2023-03-08</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Vanilla BFS</td>
+    <td>Shortest Path</td>
+    <td>2023-03-08</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Matrix as Graph</td>
+    <td>Matrix as Graph</td>
+    <td>2023-03-12</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Matrix as Graph</td>
+    <td>Flood Fill</td>
+    <td>2023-03-12</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Matrix as Graph</td>
+    <td>Number of Islands</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Matrix as Graph</td>
+    <td>Knight Minimum Moves</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>Graph</td>
+    <td>Matrix as Graph</td>
+    <td>Walls and Gates / Zombie in Matrix</td>
+    <td>To Do</td>
+  </tr>
+
+</table>
